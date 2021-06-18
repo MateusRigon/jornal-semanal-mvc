@@ -1,0 +1,19 @@
+.container h1{
+  border-top: 2px solid black;
+  border-bottom: 2px solid black;
+}
+header{
+  margin-top: 5%;
+}
+header #titulo h1{
+  font-size: 60px;
+}
+header .semana h3{
+  color: red;
+}
+.container #noticia #topico{
+	color: red;
+}
+.container{
+	margin-bottom: 40vh;
+}
